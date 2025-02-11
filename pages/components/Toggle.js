@@ -11,4 +11,4 @@ export default function Toggle() {
       {isVisible && <p>Click to increase, decrease, or reset the counter in real time.</p>}
     </div>
   );
-}
+} 
