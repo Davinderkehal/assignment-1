@@ -1,6 +1,6 @@
 // Import the Navbar component (ensure the path is correct)
 
-import Navbar from " ./components/navbar";
+import Navbar from "./components/navbar";
 
 export default function About() {
   return (

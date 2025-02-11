@@ -1,8 +1,8 @@
 // Import necessary components (ensure correct paths)
-import Navbar from " ./components/navbar";
-import Counter from " ./components/counter";
-import Toggle from " ./components/toggle";
-import Form from " ./components/form";
+import Navbar from "./components/navbar";
+import Counter from "./components/counter";
+import Toggle from "./components/toggle";
+import Form from "./components/form";
 
 export default function Home() {
   return (
